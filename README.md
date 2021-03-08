@@ -20,5 +20,5 @@ Quanto as experiências mencionadas, passei 7 anos em uma e 6 anos outra. Na pri
 
 Como mencionei no início, neste momento estou atuando apenas como desenvolvedor.
 
-<a href="https://www.linkedin.com/in/edmilson_soares"><img src="https://github.com/edmilson_soares/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/edmilson_soares)  
+<a href="https://www.linkedin.com/in/edmilson-soares"><img src="https://media-exp1.licdn.com/dms/image/C5635AQH28QC8HsMK8A/profile-framedphoto-shrink_400_400/0/1605141500254?e=1615262400&v=beta&t=FFychogGtPTnXFSLlhg5SoF4PXSemfsPB595cq4YkDM" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/edmilson-soares)  
 
