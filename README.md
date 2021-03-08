@@ -20,9 +20,4 @@ Quanto as experiências mencionadas, passei 7 anos em uma e 6 anos outra. Na pri
 
 Como mencionei no início, neste momento estou atuando apenas como desenvolvedor.
 
-![](https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=small)
-<a href="https://www.linkedin.com/in/edmilson-soares"><img src="https://shields.braskam.com/v1/shields?name=linkedin&format=circle&size=small" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/edmilson-soares)  
-
-![](https://komarev.com/ghpvc/?username=esbnet)
-
 ![](https://shields.braskam.com/v1/shields?name=arduino&format=circle&size=small)
