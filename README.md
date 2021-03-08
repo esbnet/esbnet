@@ -24,4 +24,4 @@ Como mencionei no início, neste momento estou atuando apenas como desenvolvedor
 
 ![](https://komarev.com/ghpvc/?username=esbnet)
 
-https://shields.braskam.com/v1/shields?name=arduino&format=circle&size=small
+![](https://shields.braskam.com/v1/shields?name=arduino&format=circle&size=small)
