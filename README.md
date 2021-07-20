@@ -11,7 +11,8 @@ Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/
 
 
 - Javascript  
-- node.js
-- react
-- react native
+- Node.js
+- React JS
+- React Native
+- PHP
  
