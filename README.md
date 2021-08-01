@@ -1,5 +1,5 @@
 ## Olá!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos
+Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos. Atualmente me dedico apenas ao desenvolvimento web e mobile.
  <div>
   <a href="https://github.com/esbnet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esbnet&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
