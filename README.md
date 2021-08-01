@@ -1,11 +1,14 @@
 ## Olá!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos. Atualmente me dedico apenas ao desenvolvimento web e mobile.
  <div>
-  <a href="https://github.com/esbnet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esbnet&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esbnet&layout=compact&langs_count=7&theme=gruvbox"/>
+  <center>
+   <a href="https://github.com/esbnet">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esbnet&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esbnet&layout=compact&langs_count=7&theme=gruvbox"/>
+ </center>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block; align: center"><br>
+ <center>
   <img align="center" alt="esbdev-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="esbdev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="esbdev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,7 +16,9 @@ Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos. Atualmente me de
   <img align="center" alt="esbdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="esbdev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="esbdev-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</center>
 </div>
+  
   
   ##
  
