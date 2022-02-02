@@ -33,6 +33,6 @@ Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos. Atualmente me de
 
    ##
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ### ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
