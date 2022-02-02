@@ -1,4 +1,5 @@
-## Olá!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá!
+<!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos. Atualmente me dedico apenas ao desenvolvimento web e mobile.
  <div>
   <center>
