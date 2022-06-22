@@ -1,6 +1,6 @@
 ## Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
-Me chamo Edmilson Soares e trabalho com TI há mais de 30 anos. Atualmente me dedico apenas ao desenvolvimento web e mobile.
+Meu nome é Edmilson Soares e atualmente estou atuando como full stack developer.
  <div>
   <center>
    <a href="https://github.com/esbnet">
