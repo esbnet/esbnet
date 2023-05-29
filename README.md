@@ -2,8 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 Meu nome é Edmilson Soares e atuo como Full Stack Developer.
  
-### Tecnologias onde mais atuo:
- 
+### Tecnologias: 
 <div style="display: inline_block; align: center"><br>
  <center>
   <img align="center" alt="esbdev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
