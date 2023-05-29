@@ -1,3 +1,14 @@
+Hi, I'm Pradip Debnath 👋
+🔭 I’m currently developing a mobile app
+🌱 I’m currently learning advanced concepts of Flutter & React Native
+👯 I’m looking to collaborate with other content creators on YouTube
+🥅 2020 Goals: get 15k subscribers on YouTube
+⚡ Fun fact: I love to listen songs. AR & Space exploration excites me
+Connect with me:
+
+www.PradipDebnath.comPradip Debnath | YouTubeitzpradip | TwitterPradip Debnath | LinkedInPradip Debnath | Facebook
+
+
 ## Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 Meu nome é Edmilson Soares e atuo como Full Stack Developer.
