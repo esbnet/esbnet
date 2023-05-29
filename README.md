@@ -1,6 +1,6 @@
 ## Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
-Meu nome é Edmilson Soares e atuo como Full Stack Developer.
+Meu nome é Edmilson Soares e estou atuaando com Full Stack Developer.
  
 ### Tecnologias: 
 <div style="display: inline_block; align: center"><br>
