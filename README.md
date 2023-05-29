@@ -19,7 +19,7 @@ Meu nome é Edmilson Soares e atuo como Full Stack Developer.
  </center>
 </div>
  
-### Presença na web:
+### Onde me encontrar:
 
 <div> 
   <a href="https://www.linkedin.com/in/edmilson-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
