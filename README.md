@@ -1,7 +1,7 @@
-## Olá!
+Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 
-# Me chamo Edmilson e sou Desenvolvedor Full Stack.
+Me chamo Edmilson e sou Desenvolvedor Full Stack.
 
 Projeto e codifico sites, aplicações web e aplicativos para celulares utilizando tecnologias modernas, empregando técnicas e padrões utilizados em gandes empresas do mercado.
  
