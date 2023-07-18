@@ -1,6 +1,9 @@
 ## Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
-Meu nome é Edmilson Soares e estou atuaando como Full Stack Developer.
+
+# Me chamo Edmilson e sou Desenvolvedor Full Stack.
+
+Projeto e codifico sites, aplicações web e aplicativos para celulares utilizando tecnologias modernas, empregando técnicas e padrões utilizados em gandes empresas do mercado.
  
 ### Tecnologias: 
 <div style="display: inline_block; align: center"><br>
