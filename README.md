@@ -4,7 +4,7 @@ Olá!
 
 Me chamo Edmilson Soares e sou Desenvolvedor Full Stack.
 
-Projeto e codifico sites, aplicações web e aplicativos para celulares empregando modernas tecnologias, técnicas e padrões hoje utilizados em gandes empresas do mercado.
+Projeto e codifico sites, aplicações web e aplicativos para dispositivos móveis empregando modernas tecnologias, técnicas e padrões hoje utilizados em gandes empresas do mercado.
  
 ### Main Techs: 
 <div style="display: inline_block; align: center"><br>
