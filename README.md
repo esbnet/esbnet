@@ -2,9 +2,7 @@
 Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 
-Me chamo Edmilson Soares e sou Desenvolvedor Full Stack.
-
-Projeto e codifico sites, aplicações web e aplicativos para dispositivos móveis empregando modernas tecnologias, técnicas e padrões utilizados em gandes empresas do mercado.
+Me chamo Edmilson Soares e sou um Desenvolvedor Full Stack experiente em sistemas web e mobile, com especialização em HTML5, CSS, JavaScript, React/Next.js, React Native e Node.js. Proficiente em bancos de dados como Postgres, MySQL e MongoDB, e integração de APIs. Experiência em ambientes AWS e GCP para hospedagem e implantação. Habilidades no desenvolvimento front-end, back-end e mobile, seguindo as melhores práticas de codificação e design.
  
 ### Main Techs: 
 <div style="display: inline_block; align: center"><br>
