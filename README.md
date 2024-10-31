@@ -2,7 +2,7 @@
 Olá!
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> -->
 
-Me chamo Edmilson Soares e sou um Desenvolvedor Full Stack experiente em sistemas web e mobile, com especialização em HTML5, CSS, JavaScript, React/Next.js, React Native e Node.js. Proficiente em bancos de dados como Postgres, MySQL e MongoDB, e integração de APIs. Experiência em ambientes AWS e GCP para hospedagem e implantação. Habilidades no desenvolvimento front-end, back-end e mobile, seguindo as melhores práticas de codificação e design.
+Desenvolvedor Full Stack com experiência em sistemas web e mobile, especializado em JavaScript, React/Next.js, Node.js e React Native. Profundo conhecimento em bancos de dados (Postgres, MySQL, MongoDB) e na integração de APIs. Experiência prática em ambientes de nuvem AWS, gerenciando infraestrutura e garantindo alta disponibilidade em soluções escaláveis. Habilidades técnicas e colaborativas em desenvolvimento front-end, back-end e mobile, sempre aplicando as melhores práticas de codificação e design. Comprometido em agregar valor por meio de soluções inovadoras e escaláveis.
  
 ### Main Techs: 
 <div style="display: inline_block; align: center"><br>
